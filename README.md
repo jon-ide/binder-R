@@ -1,3 +1,3 @@
-# binder-python
+# binder-R
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jon-ide/binder-R/master)
